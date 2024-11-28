@@ -11,8 +11,8 @@ export default async function NocPage({
         href={
           nptelValue === "NPTEL24MG116S1051302119"
             ? "/content/noc/NOC24/SEM1/Ecertificates/127/noc24-ge24/Course/NPTEL24MG116S1051302119.pdf"
-            : nptelValue === "NPTEL24HS60S663901784"
-            ? "/content/noc/NOC24/SEM1/Ecertificates/127/noc24-ge24/Course/NPTEL24HS60S663901784.pdf"
+            : nptelValue === "NPTEL24MG89S464300119"
+            ? "/content/noc/NOC24/SEM1/Ecertificates/127/noc24-ge24/Course/NPTEL24MG89S464300119.pdf"
             : nptelValue === "NPTEL24MG89S464300152"
             ? "/content/noc/NOC24/SEM1/Ecertificates/127/noc24-ge24/Course/NPTEL24MG89S464300152.pdf"
             : nptelValue === "NPTEL24MG116S1051302323"
